@@ -1,0 +1,27 @@
+
+
+
+    /* TEAM */
+    Your title: Adam Shields Gedney.
+    Site: http://adamgedney.com  |  adam.gedney@gmail.com
+
+    Twitter: @adamshields
+    Location: Winter Park, FL  USA
+
+
+                        [...]
+
+
+    /* THANKS */
+    Name: http://facebook.com/shieldsadam
+
+
+                        [...]
+
+
+    /* SITE */
+    Project Start: 05/28/2014
+    Standards: HTML5, CSS3, SASS, JS, Angular..
+    Software: Grunt, NPM, Bower, GitHub, Sublime Text 2
+
+
